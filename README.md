@@ -1,6 +1,6 @@
-# Real-Time Data Processing Pipeline
+# Real-Time Big Data Processing Pipeline
 
-Welcome to the **Real-Time Data Processing Pipeline** repository! This project focuses on building an efficient pipeline for real-time data ingestion, processing, storage, and visualization, leveraging cutting-edge big data technologies.
+ This project focuses on building an efficient pipeline for real-time data ingestion, processing, storage, and visualization, leveraging cutting-edge big data technologies.
 
 ---
 
